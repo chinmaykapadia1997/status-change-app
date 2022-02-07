@@ -1,0 +1,23 @@
+.selectTime{
+    margin-left: 100px;
+}
+.startTime{
+    margin-right: 80px;
+}
+h5{
+    margin-left: 300px;
+}
+.vertical {
+    border-left: 2px solid black;
+    height: 350px;
+    position:absolute;
+    left: 5%;
+}
+.donload{
+    /* margin-left: 500px; */
+    margin-top: 600px;
+}
+.slots{
+    height: 400px;
+    margin-left: 50px;
+}
